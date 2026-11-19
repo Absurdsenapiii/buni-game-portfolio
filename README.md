@@ -48,6 +48,10 @@ Production art/audio integration, listening and pacing review, fresh visual play
 
 There is **no finished-game download or store release in this repository**. No unverified completion percentage is presented.
 
+## Additional engineering experiment
+
+- [Family Time: Night Activities — unofficial Unity C# prototype](experiments/family-time-night-activities/README.md). An independent design exercise for optional nighttime minigames, including a once-per-run Wolf Mama forgiveness charge, basic Unity GUI demo, NUnit tests, and Claude Code instructions. This is not an official game mod or an affiliation with the developer.
+
 ## About this repository
 
 This is a public portfolio and case study, not the game's source distribution. Private source, working builds, unpublished story files, artwork, audio, credentials and internal production material are not included.
