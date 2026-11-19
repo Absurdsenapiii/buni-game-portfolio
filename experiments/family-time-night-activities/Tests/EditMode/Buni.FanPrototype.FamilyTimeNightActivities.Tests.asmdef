@@ -1,0 +1,13 @@
+{
+  "name": "Buni.FanPrototype.FamilyTimeNightActivities.Tests",
+  "rootNamespace": "Buni.FanPrototype.FamilyTimeNightActivities.Tests",
+  "references": [
+    "Buni.FanPrototype.FamilyTimeNightActivities"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}
